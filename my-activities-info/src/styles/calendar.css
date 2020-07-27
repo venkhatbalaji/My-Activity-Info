@@ -1,0 +1,20 @@
+@import "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
+
+body{
+    font-family: sans-serif;
+    background-image: linear-gradient(to right, #7b4397, #dc2430) !important ;
+}
+
+.calendar-container{
+    text-align: center;
+    width: 100%;
+    padding: 20px;
+}
+
+.calendar-container:hover{
+    cursor: pointer;
+}
+
+.calendar-input button .button-cal{
+    padding: 20px;
+}

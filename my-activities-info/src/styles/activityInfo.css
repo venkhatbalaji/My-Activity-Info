@@ -1,0 +1,21 @@
+body{
+    font-family: sans-serif;
+    background-image: linear-gradient(to right, #7b4397, #dc2430) !important ;
+}
+
+.card-container{
+    width: 70%;
+    margin: auto;
+    margin-top: 50px;
+}
+
+
+.card-container:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    cursor: pointer;
+  }
+
+.activity-card{
+    text-align: center;
+    align-content: center;
+}
